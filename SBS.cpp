@@ -1,4 +1,4 @@
-//Developer: Siddhartha Sarkar
+
 #include<iostream>
 #include<process.h>
 #include<fstream>
